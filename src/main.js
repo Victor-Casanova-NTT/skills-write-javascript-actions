@@ -6,5 +6,5 @@ async function run() {
   console.log(joke);
   core.setOutput("joke", joke);
 }
-/joke
+
 run();
